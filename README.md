@@ -18,7 +18,7 @@ Font used is semibold
 
 Python 3.11 & Django 4.2 was used
 
-MySQL was used for the web app but as a heads up, filling & querying the database is still not complete,
+MySQL was used for the web app but as a heads up, querying the database is still not complete,
 
 To add pages on the app, you can create your .html files in the templates folder to design the front-end layout and link them in urls.py as well as in views.py files
 
